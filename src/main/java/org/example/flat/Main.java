@@ -1,4 +1,9 @@
-package org.example;
+package org.example.flat;
+
+import org.example.flat.Apartment;
+import org.example.flat.ApartmentDAO;
+import org.example.flat.ApartmentsDAOImpl;
+import org.example.flat.ConnectionFactory;
 
 import java.sql.Connection;
 import java.sql.SQLException;

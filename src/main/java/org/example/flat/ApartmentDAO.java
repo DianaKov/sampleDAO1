@@ -1,4 +1,4 @@
-package org.example;
+package org.example.flat;
 
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
